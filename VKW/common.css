@@ -1,0 +1,26 @@
+/* GtkWindow GtkLabel {
+    background-color: #fff;
+} 
+
+GtkGrid:prelight,
+GtkGrid:active {
+	background-color: #434343;
+}
+
+GtkGrid,
+GtkGrid:insensitive {
+	background-color: transparent;
+}
+
+
+
+GtkGrid {
+	background-color: #fff;
+	border-bottom: 1px solid #000;
+}
+
+
+
+GtkLabel:hover {
+	background-color: #434343;
+}*/
