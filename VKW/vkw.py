@@ -22,8 +22,6 @@ APP_DIR        = os.path.dirname(os.path.realpath(__file__)) + "/" # Application
 class CheckVK:
     # Инициализация
     def __init__(self):
-        #self.email     = "rassel1996@gmail.com"
-        #self.password  = "konovalov"
         self.client_id = "4508898"
         self.CNT       = False
 
